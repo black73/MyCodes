@@ -1,2 +1,2 @@
 # MyCodes
-These are all the codes I've written in C, C++, Python, R.
+These are most of the codes I've written in C, C++, Python, R.
